@@ -1,0 +1,50 @@
+  <!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>index.html</title>
+</head>
+
+<body>
+<h1>Hello There</h1>
+<p>My name is Ryan Teeter, I am a college student that is working towards an AS degree. I have graduated from Mt Dora Christian Academy, i also have several skills in the design field. In my spare time i train in Kenpo karate,Collect Lego Sets and occasion play Minecraft I have experience in some adobe products, but am still learning them.&nbsp; &nbsp;</p>
+<h2>Skills</h2>
+<ul>
+<li>adobe photshop</li>
+<li>HTML</li>
+<li>Web Design</li>
+<li>Graphic Design</li>
+<li>adobe InDesign</li>
+<li>adobe Dreamweaver</li>
+<li>designing posters</li>
+<li>Animation</li>
+<li>Storyboarding</li>
+</ul>
+<h2>Software/Hardware</h2>
+<ul>
+<li>Adobe Photoshop</li>
+<li>Adobe Illustrator</li>
+<li>Canva</li>
+<li>Adobe Dreamweaver</li>
+<li>adobe InDesign</li>
+<li>Adobe Camera Raw</li>
+<li>adobe Lightroom</li>
+<li>Microsfot Oword</li>
+</ul>
+<h2>Social Media</h2>
+<ul>
+	<li><a href="https://www.youtube.com/channel/UCuVs5KwyH_GQ5wuUvqfK7Nw">My Youtube</a>
+	</li>
+<li><a href="https://github.com/Rteeter19">My Github</a></li>
+
+</ul>
+<h2>Work Samples</h2>
+<img src="Images/Anamolie Animation Low Quality.gif" alt="Animation of a guy runing after a star" width="300px">
+<img src="Images/Animations.gif" alt="Animation of a rat moving up and down" width="300px">
+<img src="Images/Anomallie.png" alt="Guy looking forward with a sword" width="300px">
+<img src="Images/Maker-Of-Soup.png" alt="A slime with a spoon" width="200px">
+<img src="Images/Brendan-St.Esprit-Poster-Finalized.png" alt="A guy that is holding a poster" width="300px">
+
+	
+</body>
+</html>
