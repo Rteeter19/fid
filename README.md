@@ -1,2 +1,2 @@
 # fid
-this is where my projects and code will be held for fundamentals of interactive design
+ This repostitory is for my Fundamentals of Interactive Design Class
