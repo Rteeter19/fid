@@ -6,11 +6,11 @@ body {
   margin: 0 10%;
   color: black;
   background-color: #faf2ae4;
-.navigation > a:link{
-	color:#FF8C00;
 	}
-	
-	
+	.navigation > a:link {
+		color: #FF8C00
+}
+			
 	
   
 }
