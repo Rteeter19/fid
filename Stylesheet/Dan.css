@@ -19,13 +19,13 @@ a {
   text-decoration: none;
 }
 a:link {
-	  color: #FFFFFF;
+	  color: #FFA500;
 }
 a:visited {
-	color: #FFFFFF;
+	color: #FFA500;
 }
 a:focus, a:hover {
-	color: #FFFFFF;
+	color: #FFA500;
 	background-color: #9fc2da;
 }
 a:active {
