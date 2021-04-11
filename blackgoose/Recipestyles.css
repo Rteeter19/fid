@@ -22,10 +22,10 @@ a:link {
 	  color: #FFFFFF;
 }
 a:visited {
-	color: #d1633c;
+	color: #FFFFFF;
 }
 a:focus, a:hover {
-	color: #d1633c;
+	color: #FFFFFF;
 	background-color: #9fc2da;
 }
 a:active {
