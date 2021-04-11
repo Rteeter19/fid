@@ -10,7 +10,7 @@
      list-style-type: none;
       }
   body {  
-    background-color: #faf2e4;
+    background-color: #FFFFFF;
     margin: 0 10%;
     font-family: sans-serif;
   }
