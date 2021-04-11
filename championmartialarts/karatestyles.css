@@ -20,10 +20,10 @@ a:link {
 	  color: black;
 }
 a:visited {
-	color: #d1633c;
+	color: #FFFFFF;
 }
 a:focus, a:hover {
-	color: #d1633c;
+	color: #FFFFFF;
 	background-color: #9fc2da;
 }
 a:active {
