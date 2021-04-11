@@ -3,6 +3,8 @@
 <head>
   <meta charset="utf-8" >
   <title>Thank you for your order</title>
+  <link href="https://fonts.googleapis.com/css?family=Ibarra+Real+Nova&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="Pizza.css" > 
   <style type="text/css">
   ol, ul { 
      list-style-type: none;
