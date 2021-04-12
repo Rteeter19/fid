@@ -1,0 +1,92 @@
+@charset "UTF-8";
+body {
+  font-family: 'Ibarra Real Nova', serif;
+  font-size: 100%;
+  line-height: 175%;
+  margin: 0 10%;
+  color: black;
+  background-color: #faf2ae4;
+	}
+	.navigation > a:link {
+		color: 	#FFA500
+}
+			
+	
+  
+}
+
+a {
+  text-decoration: none;
+}
+a:link {
+	  color: #FFA500;
+}
+a:visited {
+	color: #FFA500;
+}
+a:focus, a:hover {
+	color: #FFA500;
+	background-color: #9fc2da;
+}
+a:active {
+	color: #f0f;
+	background-color: #fff;
+}
+
+h1 {
+		text-align: center;
+		font-family: serif;
+		font-weight: normal;
+		text-transform: uppercase;
+		border-bottom: 2px solid #466675;
+		margin-top: 30px;
+	}
+	h2 {
+		color: #d1633c;
+		font-size: 1em;
+	}
+	h3 {
+		text-align: center;
+		font-family: serif;
+		font-weight: bold;
+		text-transform: uppercase;
+		font-size: 1em;
+		margin-top: 50px;
+	}
+	h4 {
+		text-align: center;
+		font-family: sans-serif;
+		font-weight: normal;
+		font-size: 1em;
+		margin-top: 5px;
+
+dt {
+  font-weight: bold;
+}
+strong {
+  font-style: italic;
+}
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: #FFA500;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  /* Change the link color to #FFA500 on hover */
+  li a:hover {
+    background-color: #111;
+  }
