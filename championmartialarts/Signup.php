@@ -2,9 +2,9 @@
 <html>
 <head>
   <meta charset="utf-8" >
-  <title>Thank you for your order</title>
+  <title>Thank you for Signing Up</title>
   <link href="https://fonts.googleapis.com/css?family=Ibarra+Real+Nova&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="karate.css" > 
+	<link rel="stylesheet" href="karatestyles.css" > 
   <style type="text/css">
   ol, ul { 
      list-style-type: none;
@@ -59,7 +59,7 @@
 <h2>Your Signup Information</h2>
 
 <?php if (!isset($_POST['Experience level']) && !isset($_POST['Subjects']) && !isset($_POST['pizzas'])) { ?>
-<em>Sorry, we did not receive your information. <a href="http://www.Championmartialarts.com/signup.html">Try again.</a></em>
+<em>Sorry, we did not receive your information. <a href="http://www.championmartialarts.com/signup.php">Try again.</a></em>
 <?php } 
   else { ?>
     <ul>
